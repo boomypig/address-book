@@ -1,6 +1,8 @@
 Vue.createApp({
     data(){
         return{
+            name:'',
+            address:'',
         };
     },
     methods: {

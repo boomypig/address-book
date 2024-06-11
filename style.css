@@ -1,0 +1,9 @@
+.inner{
+    display: flex;
+    flex-flow: column;
+    gap: 20px;
+}
+
+body{
+    background-color: gray;
+}
